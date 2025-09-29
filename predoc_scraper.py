@@ -72,4 +72,4 @@ for job in openings:
 # Saving collected list of dictionaries into a dataframe and CSV file
 df = pd.DataFrame(posting_data_list)
 print(df.head())
-df.to_csv('predoc_job_data.csv')
+df.to_csv('predoc_job_raw_data.csv')

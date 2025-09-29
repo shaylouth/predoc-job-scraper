@@ -1,7 +1,16 @@
+# Virtual Environment Files
 .venv/
 .venv*/
 venv/
 venv*/
+
+# Mac files
+.DS_Store
+
+# Personal Files
+notes.txt
+
+# Recommended Python Cache and Tools Files
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -16,4 +25,3 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 .cache/
-.DS_Store
