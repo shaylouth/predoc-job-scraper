@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('predoc_job_raw_data.csv')
+df = pd.read_csv('predoc_raw_data.csv')
 
 print(df.loc[0])
 
@@ -23,5 +23,5 @@ print(df['Fields of Research'].head(5))
 
 
 # Saving clean data as CSV
-df.to_csv('predoc_job_clean_data.csv')
+df.to_csv('predoc_clean_data_WIP.csv')
 
