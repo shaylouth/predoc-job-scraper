@@ -19,8 +19,8 @@ Which will return the file:
 ## Full Directory Overview
 * *predoc_scraper.py*
     * creates *predoc_job_rawdata.csv*
-* *predoc_cleaning_(WIP).py* 
-    * creates *predoc_clean_data_(WIP).csv* 
+* *predoc_cleaning_WIP.py* 
+    * creates *predoc_clean_data_WIP.csv* 
 * *requirements.txt*
 
 
